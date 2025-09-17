@@ -1,0 +1,30 @@
+{
+  "name": "Nehal Shaju",
+  "bio": "A highly motivated B.Tech Computer Science and Engineering student with a strong foundation in Python, Java, and web development. Demonstrated ability to quickly adapt and learn new technologies...",
+  "title": "Software Engineering Student",
+  "email": "connect.nehalshaju@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/nehalshaju/",
+  "github": "https://github.com/nehalshaju",
+  "skills": ["HTML", "CSS", "Python", "JavaScript", "C"],
+  "education": "B.Tech in Computer Science and Engineering",
+  "projects": [
+    {
+      "title": "Stock Analysis Bot",
+      "image": "assets/project-1.png",
+      "github": "https://github.com/nehalshaju/stock-bot",
+      "demo": "https://nehalshaju.github.io/stock-bot"
+    },
+    {
+      "title": "NeuroReflect",
+      "image": "assets/project-2.png",
+      "github": "https://github.com/nehalshaju/neuroreflect",
+      "demo": "https://nehalshaju.github.io/neuroreflect"
+    },
+    {
+      "title": "Pawfect Petcare",
+      "image": "assets/project-3.png",
+      "github": "https://github.com/nehalshaju/pawfect",
+      "demo": "https://nehalshaju.github.io/pawfect"
+    }
+  ]
+}
